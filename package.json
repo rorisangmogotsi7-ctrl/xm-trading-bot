@@ -1,0 +1,12 @@
+{
+  "name": "xm-trading-bot",
+  "version": "1.0.0",
+  "description": "MT5 Trading Bot Webhook Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
